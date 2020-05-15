@@ -4,6 +4,6 @@ import {
 } from '@material-ui/core';
   
 export default () => (
-    <Typography variant = "h4"> Welcome To Jopping</Typography>
+    <Typography variant = "h4"> Welcome </Typography>
 
 );
